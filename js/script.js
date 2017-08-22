@@ -2,7 +2,7 @@ var d = document, $d = $(d),
     w = window, $w = $(w),
     wWidth = $w.width(), wHeight = $w.height(),
     credit = $('.credit > a'),
-    particles = $('.aparticles'),
+    particles = $('.particles'),
     particleCount = 0,
     sizes = [
       15, 20, 25, 35, 45
